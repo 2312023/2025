@@ -1,4 +1,4 @@
-# ⭐ How Price of a Stock is Decided (50 Long, Detailed Lines)**
+# ⭐ How Price of a Stock is Decided
 
 1. The price of a stock is essentially determined by the **forces of demand and supply** in the market.
 2. When more investors want to buy a stock than sell it, the price rises.
