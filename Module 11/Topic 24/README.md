@@ -1,4 +1,4 @@
-# ⭐ News, Earnings, Inflation, Interest Rates (50 Long, Detailed Lines)**
+# ⭐ News, Earnings, Inflation, Interest Rates
 
 1. **News** is one of the most immediate factors affecting stock market movements.
 2. Positive news about a company, sector, or economy generally drives stock prices **upward**.
