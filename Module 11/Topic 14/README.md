@@ -1,4 +1,4 @@
-# ⭐ Clearing & Settlement (50 Long, Detailed Lines)**
+# ⭐ Clearing & Settlement
 
 1. **Clearing and settlement** are essential processes that ensure smooth transfer of securities and funds in the stock market.
 2. Clearing refers to the process of **matching buy and sell orders** after trading is executed.
