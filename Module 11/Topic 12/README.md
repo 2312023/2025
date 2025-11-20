@@ -1,4 +1,4 @@
-# ⭐ SEBI Overview (50 Long, Detailed Lines)**
+# ⭐ SEBI Overview 
 
 1. SEBI, or the **Securities and Exchange Board of India**, is the regulatory authority for India’s securities markets.
 2. It was established in 1988 and given statutory powers in 1992.
