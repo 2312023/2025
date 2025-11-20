@@ -1,4 +1,4 @@
-# ⭐ Market Participants (50 Long, Detailed Lines)**
+# ⭐ Market Participants
 
 1. The stock market is composed of various participants who influence price, liquidity, and trends.
 2. **Retail traders** are individual investors who buy and sell shares for personal profit.
