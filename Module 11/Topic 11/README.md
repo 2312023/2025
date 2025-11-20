@@ -1,4 +1,4 @@
-# ⭐ Brokers & Regulation (50 Long, Detailed Lines)**
+# ⭐ Brokers & Regulation
 
 1. **Brokers** act as intermediaries between investors and the stock exchanges.
 2. They facilitate buying and selling of stocks, derivatives, and other securities.
