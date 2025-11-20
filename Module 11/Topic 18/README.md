@@ -1,4 +1,4 @@
-# ⭐ Market Order (50 Long, Detailed Lines)**
+# ⭐ Market Order
 
 1. A **Market Order** is the simplest type of order used to buy or sell a stock immediately.
 2. The main characteristic of a market order is that it **executes at the best available price**.
