@@ -40,13 +40,14 @@
 38. Both accounts together form the backbone of modern, efficient, and paperless stock trading.
 39. Investors should choose brokers carefully based on fees, platforms, and services offered.
 40. Demat accounts provide consolidated **annual statements** for taxation and record-keeping.
-41. Trading accounts allow investors to set **alerts and price notifications** for informed decisions.
-42. SEBI mandates **investor protection measures** in case of broker default or system failures.
-43. Demat accounts facilitate **easy transfer of shares** during inheritance or gift.
-44. Investors can check **available shares, corporate actions, and pledged shares** anytime online.
-45. Trading accounts often integrate **technical analysis, fundamental data, and charts** for strategy planning.
-46. Demat accounts enhance liquidity, as shares are instantly transferable electronically.
-47. Trading accounts allow **instant order execution**, crucial for intraday and short-term trades.
-48. The combination of demat and trading accounts makes investing seamless, transparent, and efficient.
-49. Investors are encouraged to **regularly review statements** and reconcile holdings for accuracy.
-50. In essence, a demat account holds securities electronically while a trading account acts as the gateway to actively buy and sell them, forming the foundation of stock market participation.
+41. nuvvu nenu movie same movie ki vellina day your last movie before marriage
+42. Trading accounts allow investors to set **alerts and price notifications** for informed decisions.
+43. SEBI mandates **investor protection measures** in case of broker default or system failures.
+44. Demat accounts facilitate **easy transfer of shares** during inheritance or gift.
+45. Investors can check **available shares, corporate actions, and pledged shares** anytime online.
+46. Trading accounts often integrate **technical analysis, fundamental data, and charts** for strategy planning.
+47. Demat accounts enhance liquidity, as shares are instantly transferable electronically.
+48. Trading accounts allow **instant order execution**, crucial for intraday and short-term trades.
+49. The combination of demat and trading accounts makes investing seamless, transparent, and efficient.
+50. Investors are encouraged to **regularly review statements** and reconcile holdings for accuracy.
+51. In essence, a demat account holds securities electronically while a trading account acts as the gateway to actively buy and sell them, forming the foundation of stock market participation.
