@@ -1,4 +1,4 @@
-# ⭐ Exchanges – NSE, BSE, NASDAQ, NYSE (50 Long, Detailed Lines)**
+# ⭐ Exchanges – NSE, BSE, NASDAQ, NYSE
 
 1. Stock exchanges are platforms where buyers and sellers meet to trade securities.
 2. They provide liquidity, transparency, and a regulated environment for trading.
