@@ -1,4 +1,4 @@
-# ⭐ Blue-chip, Mid-cap, Small-cap Stocks (50 Long, Detailed Lines)**
+# ⭐ Blue-chip, Mid-cap, Small-cap Stocks
 
 1. **Blue-chip stocks** are shares of large, well-established, and financially sound companies.
 2. They typically have a **long track record of stable earnings and dividend payments**.
