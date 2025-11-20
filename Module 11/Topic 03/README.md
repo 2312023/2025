@@ -1,6 +1,6 @@
 # 📘 Module 1 — Topic 3
 
-⭐ Why Do Companies Issue Stocks? (50 Long Lines)**
+⭐ Why Do Companies Issue Stocks?
 
 1. Companies issue stocks primarily to raise large amounts of capital that can support their long-term business plans and financial goals.
 2. This method allows them to collect money without the burden of paying back loans or interest to banks.
