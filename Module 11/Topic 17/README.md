@@ -1,4 +1,4 @@
-# ⭐ Types of Orders (50 Long, Detailed Lines)**
+# ⭐ Types of Orders
 
 1. **Orders** are instructions given by investors to brokers to buy or sell securities.
 2. Choosing the correct order type is crucial for risk management and execution strategy.
