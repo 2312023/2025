@@ -1,6 +1,4 @@
-# 📘 Module 1 — Topic 4
-
-⭐ Why Investors Buy Shares? (50 Long, Detailed Lines)
+# ⭐ Why Investors Buy Shares? (50 Long, Detailed Lines)
 
 1. Investors buy shares mainly because they want to grow their wealth over time by benefiting from the company’s success.
 2. When a company performs well, its stock price generally increases, giving investors capital gains.
