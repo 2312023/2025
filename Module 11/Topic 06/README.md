@@ -1,4 +1,4 @@
-# ⭐ IPO – What Happens Step by Step (50 Long, Detailed Lines)**
+# ⭐ IPO – What Happens Step by Step
 
 1. An IPO, or Initial Public Offering, is the process where a private company decides to become a publicly listed company for the first time.
 2. The company begins the IPO journey by internally evaluating its financial strength, growth plans, and the need for raising external capital.
