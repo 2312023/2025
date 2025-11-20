@@ -1,4 +1,4 @@
-# What is a Company?
+# ⭐ What is a Company?
 
 1. A **company** is a legally recognized organization formed by individuals to conduct business, create products, or provide services.
 2. It exists as a separate legal entity, meaning the company can own assets, borrow money, enter contracts, and be sued independently of its owners.
