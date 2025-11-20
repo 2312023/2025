@@ -1,4 +1,4 @@
-# ⭐ Market Timings (50 Long, Detailed Lines)**
+# ⭐ Market Timings
 
 1. Stock market timings define the hours during which trading can occur on exchanges.
 2. In India, **NSE and BSE** operate from 9:15 AM to 3:30 PM IST on weekdays.
