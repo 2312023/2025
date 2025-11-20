@@ -1,4 +1,4 @@
-# ⭐ Primary Market vs Secondary Market (50 Long, Detailed Lines)
+# ⭐ Primary Market vs Secondary Market
 
 1. The primary market is the place where companies sell their shares to the public for the first time.
 2. This first-time sale happens through a process called an Initial Public Offering, commonly known as an IPO.
