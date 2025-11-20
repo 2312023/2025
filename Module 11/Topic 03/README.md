@@ -1,4 +1,4 @@
-# **📘 Module 1 — Topic 3
+# 📘 Module 1 — Topic 3
 
 ⭐ Why Do Companies Issue Stocks? (50 Long Lines)**
 
