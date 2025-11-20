@@ -1,4 +1,4 @@
-# ⭐ IOC, GTT, Cover Order (50 Long, Detailed Lines)**
+# ⭐ IOC, GTT, Cover Order
 
 1. **IOC (Immediate or Cancel) orders** are executed immediately for the available quantity.
 2. Any unfilled portion of an IOC order is automatically **canceled**.
