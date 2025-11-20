@@ -1,4 +1,4 @@
-# “What is a Stock?**
+# “What is a Stock?
 
 1. A **stock** represents a unit of ownership in a company, giving the holder a claim on a portion of the company’s assets and profits.
 2. When you buy a stock, you become a **shareholder**, meaning you own a fraction of the business—no matter how small.
