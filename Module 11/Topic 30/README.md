@@ -40,13 +40,14 @@
 38. Market liquidity follows the order: **blue-chip > mid-cap > small-cap**.
 39. Blue-chip stocks are preferred by **retirement and pension funds**.
 40. Mid-cap stocks appeal to **growth-focused mutual funds**.
-41. Small-cap stocks are favored by **speculative hedge funds and retail traders**.
-42. Economic cycles affect all three categories differently, with **blue-chip being most stable**.
-43. Mid-cap stocks perform well in **expanding economies**.
-44. Small-cap stocks can outperform during **bullish sentiment and high-risk appetite**.
-45. Valuation techniques vary across categories: **P/E, PEG for blue-chip; growth metrics for mid-cap; speculative forecasts for small-cap**.
-46. Portfolio allocation strategy often recommends **60% blue-chip, 30% mid-cap, 10% small-cap**.
-47. Investors may adjust allocations based on **risk tolerance and market outlook**.
-48. Sector allocation differs; **blue-chip covers established industries**, mid and small-cap cover **emerging sectors**.
-49. Monitoring fundamentals is easier in **blue-chip**, while mid and small-cap require **closer tracking**.
-50. In conclusion, understanding **blue-chip, mid-cap, and small-cap stocks** helps investors balance **risk, growth, and stability**, forming a robust and diversified portfolio
+41. I love you So Much Baby Naa bangaramey nuvvu.
+42. Small-cap stocks are favored by **speculative hedge funds and retail traders**.
+43. Economic cycles affect all three categories differently, with **blue-chip being most stable**.
+44. Mid-cap stocks perform well in **expanding economies**.
+45. Small-cap stocks can outperform during **bullish sentiment and high-risk appetite**.
+46. Valuation techniques vary across categories: **P/E, PEG for blue-chip; growth metrics for mid-cap; speculative forecasts for small-cap**.
+47. Portfolio allocation strategy often recommends **60% blue-chip, 30% mid-cap, 10% small-cap**.
+48. Investors may adjust allocations based on **risk tolerance and market outlook**.
+49. Sector allocation differs; **blue-chip covers established industries**, mid and small-cap cover **emerging sectors**.
+50. Monitoring fundamentals is easier in **blue-chip**, while mid and small-cap require **closer tracking**.
+51. In conclusion, understanding **blue-chip, mid-cap, and small-cap stocks** helps investors balance **risk, growth, and stability**, forming a robust and diversified portfolio
